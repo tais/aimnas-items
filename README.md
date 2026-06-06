@@ -26,3 +26,15 @@ won't work. You don't need AIMNAS itself installed.
   set `NCTH = TRUE` in `Data-AIM-Items/Ja2_Options.INI` and copy AIMNAS's `CTHConstants.ini`
   into that folder.
 * Your saves go in a separate profile, so this won't disturb your other 1.13 games.
+
+## Credits
+
+Built entirely on other people's work — full credit to them:
+
+- **AIMNAS** (<https://github.com/aimnas>) — the weapon/item roster, graphics, sounds, and
+  loadout data this mod carves out and re-points onto the original maps.
+- **JA2 1.13** (<https://github.com/1dot13>) — the engine and base this runs on.
+- **Jagged Alliance 2** (Sir-Tech) — the original game and its maps.
+
+Unofficial fan project — requires a working JA2 1.13 install, and is not affiliated with
+or endorsed by the AIMNAS project or Sir-Tech.
