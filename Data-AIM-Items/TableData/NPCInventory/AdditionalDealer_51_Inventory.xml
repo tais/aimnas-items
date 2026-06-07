@@ -1,15 +1,3 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Chinese Take Away Chitzena B1 -->
-
 <INVENTORYLIST>
-	<INVENTORY>
-		<uiIndex>0</uiIndex>
-		<sItemIndex>1857</sItemIndex>
-		<ubOptimalNumber>12</ubOptimalNumber>
-	</INVENTORY>
-	<INVENTORY>
-		<uiIndex>1</uiIndex>
-		<sItemIndex>1911</sItemIndex>
-		<ubOptimalNumber>12</ubOptimalNumber>
-	</INVENTORY>
 </INVENTORYLIST>
