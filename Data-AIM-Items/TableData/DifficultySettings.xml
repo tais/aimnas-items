@@ -219,7 +219,7 @@
 		<uiIndex>1</uiIndex>
 		<Name>Novice</Name>
 		<ConfirmText>You have chosen NOVICE mode. This setting is appropriate for those new to Jagged Alliance, those new to strategy games in general, or those wishing shorter battles in the game. Your choice will affect things throughout the entire course of the game, so choose wisely. Are you sure you want to play in Novice mode?</ConfirmText>
-		<StartingCash>45000</StartingCash>
+		<StartingCash>90000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
 		<NumKillsPerProgressPoint>7</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>70</InitialGarrisonPercentages>
@@ -298,7 +298,7 @@
 		<uiIndex>2</uiIndex>
 		<Name>Experienced</Name>
 		<ConfirmText>You have chosen EXPERIENCED mode. This setting is suitable for those already familiar with Jagged Alliance or similar games. Your choice will affect things throughout the entire course of the game, so choose wisely. Are you sure you want to play in Experienced mode?</ConfirmText>
-		<StartingCash>35000</StartingCash>
+		<StartingCash>70000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
 		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>100</InitialGarrisonPercentages>
@@ -377,7 +377,7 @@
 		<uiIndex>3</uiIndex>
 		<Name>Expert</Name>
 		<ConfirmText>You have chosen EXPERT mode. We warned you. Don't blame us if you get shipped back in a body bag. Your choice will affect things throughout the entire course of the game, so choose wisely. Are you sure you want to play in Expert mode?</ConfirmText>
-		<StartingCash>30000</StartingCash>
+		<StartingCash>60000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
 		<NumKillsPerProgressPoint>15</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>150</InitialGarrisonPercentages>
@@ -456,7 +456,7 @@
 		<uiIndex>4</uiIndex>
 		<Name>Insane</Name>
 		<ConfirmText>You have chosen INSANE mode. WARNING: Don't blame us if you get shipped back in little pieces... Deidranna WILL kick your ass.  Hard.  Your choice will affect things throughout the entire course of the game, so choose wisely. Are you sure you want to play in INSANE mode?</ConfirmText>
-		<StartingCash>15000</StartingCash>
+		<StartingCash>30000</StartingCash>
 		<EnemyAPBonus>5</EnemyAPBonus>
 		<NumKillsPerProgressPoint>60</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>200</InitialGarrisonPercentages>
