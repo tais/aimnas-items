@@ -154,4 +154,25 @@
 		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>22</uiIndex>
+		<usItem>207</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>23</uiIndex>
+		<usItem>241</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>24</uiIndex>
+		<usItem>209</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
 </ATTACHMENTINFOLIST>
