@@ -22,9 +22,12 @@ won't work. You don't need AIMNAS itself installed.
 
 ## Notes
 
-* Combat keeps the original 1.13 feel (NCTH off). To use AIMNAS's designed accuracy system,
-  set `NCTH = TRUE` in `Data-AIM-Items/Ja2_Options.INI` and copy AIMNAS's `CTHConstants.ini`
-  into that folder.
+* Combat keeps the original 1.13 feel by default (`NCTH = FALSE`). A small-map-tuned version
+  of AIMNAS's accuracy constants is bundled as `Data-AIM-Items/CTHConstants.ini`; set
+  `NCTH = TRUE` in `Data-AIM-Items/Ja2_Options.INI` to use it. Do not replace it with
+  AIMNAS's original BigMap-oriented `CTHConstants.ini`.
+* BigMap-sensitive gun, launcher, optic, flashlight, hearing, and explosive distances are
+  stock-anchored or map-scaled for the original 160x160 campaign maps.
 * Your saves go in a separate profile, so this won't disturb your other 1.13 games.
 
 ## Credits

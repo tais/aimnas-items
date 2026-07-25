@@ -4097,11 +4097,11 @@
 		<ScopeMagFactor>10</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>20</AimBonus>
-		<MinRangeForAimBonus>270</MinRangeForAimBonus>
+		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-9</PercentAPReduction>
-		<VisionRangeBonus>60</VisionRangeBonus>
+		<VisionRangeBonus>0</VisionRangeBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>400</DayVisionRangeBonus>
+		<DayVisionRangeBonus>90</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
@@ -8752,7 +8752,7 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<DiseaseprotectionFace>1</DiseaseprotectionFace>
 		<Damageable>1</Damageable>
@@ -8784,8 +8784,8 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>2</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<DiseaseprotectionFace>1</DiseaseprotectionFace>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -8835,7 +8835,7 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<HearingRangeBonus>25</HearingRangeBonus>
+		<HearingRangeBonus>10</HearingRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -8867,7 +8867,7 @@
 		<BR_NewInventory>15</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<HearingRangeBonus>8</HearingRangeBonus>
+		<HearingRangeBonus>4</HearingRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -8899,7 +8899,7 @@
 		<BR_NewInventory>6</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<HearingRangeBonus>15</HearingRangeBonus>
+		<HearingRangeBonus>7</HearingRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -8950,7 +8950,7 @@
 		<BR_NewInventory>20</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
@@ -8986,9 +8986,9 @@
 		<BR_NewInventory>12</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-30</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -9022,9 +9022,9 @@
 		<BR_NewInventory>8</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -9059,9 +9059,9 @@
 		<BR_NewInventory>6</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-30</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -9095,9 +9095,9 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<NightVisionRangeBonus>15</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -9131,9 +9131,9 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<NightVisionRangeBonus>15</NightVisionRangeBonus>
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>25</CaveVisionRangeBonus>
+		<CaveVisionRangeBonus>12</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-30</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -9232,9 +9232,9 @@
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<NightVisionRangeBonus>-10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
@@ -9264,9 +9264,9 @@
 		<bRepairEase>3</bRepairEase>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<NightVisionRangeBonus>-20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>7</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
@@ -9297,9 +9297,9 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ToHitBonus>2</ToHitBonus>
 		<NightVisionRangeBonus>-10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>35</DayVisionRangeBonus>
+		<DayVisionRangeBonus>7</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
@@ -21203,7 +21203,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Bipod>75</Bipod>
 		<ToHitBonus>-60</ToHitBonus>
-		<MinRangeForAimBonus>300</MinRangeForAimBonus>
+		<MinRangeForAimBonus>0</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
 		<DamageBonus>5</DamageBonus>
 		<Damageable>1</Damageable>
@@ -21291,8 +21291,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<PercentAPReduction>15</PercentAPReduction>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>24</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -21358,11 +21358,11 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>250</BestLaserRange>
 		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>80</MinRangeForAimBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>70</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>5</MinRangeForAimBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>14</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -21414,11 +21414,11 @@
 		<ScopeMagFactor>3</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>8</AimBonus>
-		<MinRangeForAimBonus>100</MinRangeForAimBonus>
+		<MinRangeForAimBonus>15</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>24</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -21465,11 +21465,11 @@
 		<ScopeMagFactor>3.5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>9</AimBonus>
-		<MinRangeForAimBonus>100</MinRangeForAimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>140</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>28</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>12</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -21526,9 +21526,9 @@
 		<ToHitBonus>7</ToHitBonus>
 		<AimBonus>7</AimBonus>
 		<PercentAPReduction>22</PercentAPReduction>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>80</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>16</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-6</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -21586,11 +21586,11 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>300</BestLaserRange>
 		<AimBonus>13</AimBonus>
-		<MinRangeForAimBonus>60</MinRangeForAimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>160</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>32</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -21644,12 +21644,12 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>180</BestLaserRange>
 		<AimBonus>6</AimBonus>
-		<MinRangeForAimBonus>30</MinRangeForAimBonus>
+		<MinRangeForAimBonus>0</MinRangeForAimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
-		<NightVisionRangeBonus>60</NightVisionRangeBonus>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>0</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>0</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
@@ -21706,8 +21706,8 @@
 		<BestLaserRange>250</BestLaserRange>
 		<AimBonus>7</AimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>8</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -21766,11 +21766,11 @@
 		<ToHitBonus>20</ToHitBonus>
 		<BestLaserRange>280</BestLaserRange>
 		<AimBonus>13</AimBonus>
-		<MinRangeForAimBonus>50</MinRangeForAimBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>100</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>15</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -21818,11 +21818,11 @@
 		<ScopeMagFactor>1.5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>7</AimBonus>
-		<MinRangeForAimBonus>60</MinRangeForAimBonus>
+		<MinRangeForAimBonus>5</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>70</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>14</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -21874,12 +21874,12 @@
 		<ScopeMagFactor>3</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>30</MinRangeForAimBonus>
+		<MinRangeForAimBonus>15</MinRangeForAimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
-		<NightVisionRangeBonus>60</NightVisionRangeBonus>
-		<DayVisionRangeBonus>140</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<DayVisionRangeBonus>28</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
@@ -21932,12 +21932,12 @@
 		<ScopeMagFactor>3</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>9</AimBonus>
-		<MinRangeForAimBonus>30</MinRangeForAimBonus>
+		<MinRangeForAimBonus>15</MinRangeForAimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
-		<NightVisionRangeBonus>120</NightVisionRangeBonus>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>40</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>45</NightVisionRangeBonus>
+		<DayVisionRangeBonus>24</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-7</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>70</PercentTunnelVision>
@@ -21989,11 +21989,11 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ToHitBonus>6</ToHitBonus>
 		<AimBonus>8</AimBonus>
-		<MinRangeForAimBonus>50</MinRangeForAimBonus>
+		<MinRangeForAimBonus>5</MinRangeForAimBonus>
 		<PercentAPReduction>18</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -22639,8 +22639,8 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>240</BestLaserRange>
-		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>8</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
@@ -22685,8 +22685,8 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>220</BestLaserRange>
-		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>8</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
@@ -22821,8 +22821,8 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ToHitBonus>18</ToHitBonus>
 		<BestLaserRange>180</BestLaserRange>
-		<NightVisionRangeBonus>15</NightVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
+		<NightVisionRangeBonus>8</NightVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
@@ -26452,7 +26452,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>2</AimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<DayVisionRangeBonus>0</DayVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -26503,7 +26503,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>8</AimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<DayVisionRangeBonus>8</DayVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -26554,8 +26554,8 @@
 		<ToHitBonus>2</ToHitBonus>
 		<AimBonus>3</AimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<VisionRangeBonus>20</VisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<VisionRangeBonus>0</VisionRangeBonus>
+		<DayVisionRangeBonus>0</DayVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -26609,7 +26609,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>6</AimBonus>
 		<PercentAPReduction>33</PercentAPReduction>
-		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<DayVisionRangeBonus>0</DayVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -26662,7 +26662,7 @@
 		<ToHitBonus>1</ToHitBonus>
 		<AimBonus>2</AimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<DayVisionRangeBonus>6</DayVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -26714,10 +26714,10 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>5</AimBonus>
 		<PercentAPReduction>15</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
+		<DayVisionRangeBonus>4</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -26891,10 +26891,10 @@
 		<ScopeMagFactor>2</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>7</AimBonus>
-		<MinRangeForAimBonus>100</MinRangeForAimBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>80</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>10</MinRangeForAimBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -26944,10 +26944,10 @@
 		<ScopeMagFactor>3</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>8</AimBonus>
-		<MinRangeForAimBonus>120</MinRangeForAimBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>15</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>24</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -26992,11 +26992,11 @@
 		<ScopeMagFactor>1.2</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>8</AimBonus>
-		<MinRangeForAimBonus>70</MinRangeForAimBonus>
+		<MinRangeForAimBonus>0</MinRangeForAimBonus>
 		<PercentAPReduction>15</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -27049,10 +27049,10 @@
 		<ScopeMagFactor>3</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>120</MinRangeForAimBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>15</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>24</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -27113,10 +27113,10 @@
 		<ScopeMagFactor>4</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>13</AimBonus>
-		<MinRangeForAimBonus>140</MinRangeForAimBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>160</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -27163,11 +27163,11 @@
 		<ScopeMagFactor>4</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>13</AimBonus>
-		<MinRangeForAimBonus>130</MinRangeForAimBonus>
-		<NightVisionRangeBonus>80</NightVisionRangeBonus>
-		<DayVisionRangeBonus>180</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -27215,12 +27215,12 @@
 		<ScopeMagFactor>6</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>15</AimBonus>
-		<MinRangeForAimBonus>150</MinRangeForAimBonus>
+		<MinRangeForAimBonus>30</MinRangeForAimBonus>
 		<PercentAPReduction>-5</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>220</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>44</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
@@ -27272,8 +27272,8 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>5</AimBonus>
 		<PercentAPReduction>5</PercentAPReduction>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>4</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
@@ -27327,9 +27327,9 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ToHitBonus>3</ToHitBonus>
 		<AimBonus>6</AimBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>80</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>16</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -27374,10 +27374,10 @@
 		<ScopeMagFactor>5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>14</AimBonus>
-		<MinRangeForAimBonus>150</MinRangeForAimBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>200</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -27441,11 +27441,11 @@
 		<ScopeMagFactor>1.5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>100</MinRangeForAimBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>60</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>5</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>12</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>40</PercentTunnelVision>
@@ -27498,11 +27498,11 @@
 		<ScopeMagFactor>6</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>15</AimBonus>
-		<MinRangeForAimBonus>170</MinRangeForAimBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>240</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>30</MinRangeForAimBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>48</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>60</PercentTunnelVision>
@@ -27551,11 +27551,11 @@
 		<ScopeMagFactor>2</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>8</AimBonus>
-		<MinRangeForAimBonus>100</MinRangeForAimBonus>
-		<NightVisionRangeBonus>50</NightVisionRangeBonus>
-		<DayVisionRangeBonus>80</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>10</MinRangeForAimBonus>
+		<NightVisionRangeBonus>25</NightVisionRangeBonus>
+		<DayVisionRangeBonus>16</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>50</PercentTunnelVision>
@@ -27603,11 +27603,11 @@
 		<ScopeMagFactor>4</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>13</AimBonus>
-		<MinRangeForAimBonus>140</MinRangeForAimBonus>
-		<NightVisionRangeBonus>50</NightVisionRangeBonus>
-		<DayVisionRangeBonus>160</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>60</PercentTunnelVision>
@@ -27657,9 +27657,9 @@
 		<ScopeMagFactor>7</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>16</AimBonus>
-		<MinRangeForAimBonus>180</MinRangeForAimBonus>
-		<NightVisionRangeBonus>50</NightVisionRangeBonus>
-		<DayVisionRangeBonus>280</DayVisionRangeBonus>
+		<MinRangeForAimBonus>45</MinRangeForAimBonus>
+		<NightVisionRangeBonus>25</NightVisionRangeBonus>
+		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
@@ -27710,12 +27710,12 @@
 		<ScopeMagFactor>6</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>16</AimBonus>
-		<MinRangeForAimBonus>150</MinRangeForAimBonus>
-		<VisionRangeBonus>30</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>240</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>60</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>30</MinRangeForAimBonus>
+		<VisionRangeBonus>15</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>48</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -27765,12 +27765,12 @@
 		<ScopeMagFactor>8</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>18</AimBonus>
-		<MinRangeForAimBonus>220</MinRangeForAimBonus>
-		<VisionRangeBonus>40</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>320</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>70</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>70</MinRangeForAimBonus>
+		<VisionRangeBonus>20</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>64</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentTunnelVision>80</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -27822,11 +27822,11 @@
 		<ScopeMagFactor>10</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>20</AimBonus>
-		<MinRangeForAimBonus>270</MinRangeForAimBonus>
+		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-9</PercentAPReduction>
-		<VisionRangeBonus>60</VisionRangeBonus>
+		<VisionRangeBonus>0</VisionRangeBonus>
 		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>400</DayVisionRangeBonus>
+		<DayVisionRangeBonus>90</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
@@ -27877,13 +27877,13 @@
 		<ScopeMagFactor>3</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>250</MinRangeForAimBonus>
+		<MinRangeForAimBonus>15</MinRangeForAimBonus>
 		<PercentAPReduction>-8</PercentAPReduction>
-		<VisionRangeBonus>50</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>25</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>24</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>50</PercentTunnelVision>
@@ -27933,13 +27933,13 @@
 		<ScopeMagFactor>6</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>15</AimBonus>
-		<MinRangeForAimBonus>250</MinRangeForAimBonus>
+		<MinRangeForAimBonus>30</MinRangeForAimBonus>
 		<PercentAPReduction>-8</PercentAPReduction>
-		<VisionRangeBonus>50</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>240</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>25</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>48</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>22</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>60</PercentTunnelVision>
@@ -27989,13 +27989,13 @@
 		<ScopeMagFactor>9</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>18</AimBonus>
-		<MinRangeForAimBonus>250</MinRangeForAimBonus>
+		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-8</PercentAPReduction>
-		<VisionRangeBonus>50</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>360</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>60</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>25</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>72</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>70</PercentTunnelVision>
@@ -28046,13 +28046,13 @@
 		<ScopeMagFactor>12</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>20</AimBonus>
-		<MinRangeForAimBonus>250</MinRangeForAimBonus>
+		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-8</PercentAPReduction>
-		<VisionRangeBonus>50</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>480</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>25</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>75</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>90</PercentTunnelVision>
@@ -28099,13 +28099,13 @@
 		<ScopeMagFactor>2.5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>100</MinRangeForAimBonus>
+		<MinRangeForAimBonus>10</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
-		<VisionRangeBonus>10</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>100</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>5</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
 		<DamageBonus>3</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>60</PercentTunnelVision>
@@ -28156,13 +28156,13 @@
 		<ScopeMagFactor>5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>14</AimBonus>
-		<MinRangeForAimBonus>140</MinRangeForAimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
-		<VisionRangeBonus>30</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>200</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>15</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
 		<DamageBonus>3</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>70</PercentTunnelVision>
@@ -28213,13 +28213,13 @@
 		<ScopeMagFactor>7.5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>19</AimBonus>
-		<MinRangeForAimBonus>180</MinRangeForAimBonus>
+		<MinRangeForAimBonus>60</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
-		<VisionRangeBonus>50</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>300</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>25</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>60</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
 		<DamageBonus>3</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>80</PercentTunnelVision>
@@ -28272,13 +28272,13 @@
 		<ScopeMagFactor>10.5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>21</AimBonus>
-		<MinRangeForAimBonus>250</MinRangeForAimBonus>
+		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-10</PercentAPReduction>
-		<VisionRangeBonus>70</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>420</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>35</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>65</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>8</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>45</BrightLightVisionRangeBonus>
 		<DamageBonus>3</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>80</PercentTunnelVision>
@@ -28418,9 +28418,9 @@
 		<ScopeMagFactor>3.5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>12</AimBonus>
-		<NightVisionRangeBonus>70</NightVisionRangeBonus>
-		<DayVisionRangeBonus>100</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>35</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>50</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -28471,11 +28471,11 @@
 		<ScopeMagFactor>5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>9</AimBonus>
-		<MinRangeForAimBonus>100</MinRangeForAimBonus>
-		<NightVisionRangeBonus>100</NightVisionRangeBonus>
-		<DayVisionRangeBonus>100</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>45</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>70</PercentTunnelVision>
@@ -28524,10 +28524,10 @@
 		<ScopeMagFactor>3.8</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>100</MinRangeForAimBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>150</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
@@ -28575,10 +28575,10 @@
 		<ScopeMagFactor>3</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>30</MinRangeForAimBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>15</MinRangeForAimBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>24</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
@@ -28628,10 +28628,10 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>2</AimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>20</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>4</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -28681,11 +28681,11 @@
 		<ScopeMagFactor>4.2</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>13</AimBonus>
-		<MinRangeForAimBonus>120</MinRangeForAimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>170</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>34</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -28733,11 +28733,11 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ToHitBonus>15</ToHitBonus>
 		<AimBonus>6</AimBonus>
-		<MinRangeForAimBonus>100</MinRangeForAimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>180</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>36</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -28836,10 +28836,10 @@
 		<ScopeMagFactor>3.8</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>120</MinRangeForAimBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>150</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -28905,11 +28905,11 @@
 		<ScopeMagFactor>7.5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>17</AimBonus>
-		<MinRangeForAimBonus>220</MinRangeForAimBonus>
+		<MinRangeForAimBonus>60</MinRangeForAimBonus>
 		<PercentAPReduction>-5</PercentAPReduction>
-		<VisionRangeBonus>30</VisionRangeBonus>
-		<DayVisionRangeBonus>300</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>75</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>15</VisionRangeBonus>
+		<DayVisionRangeBonus>60</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>38</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>70</PercentTunnelVision>
@@ -28958,9 +28958,9 @@
 		<ScopeMagFactor>1.2</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>5</AimBonus>
-		<MinRangeForAimBonus>60</MinRangeForAimBonus>
+		<MinRangeForAimBonus>0</MinRangeForAimBonus>
 		<PercentAPReduction>25</PercentAPReduction>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -29013,9 +29013,9 @@
 		<ScopeMagFactor>4</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>11</AimBonus>
-		<MinRangeForAimBonus>130</MinRangeForAimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<DayVisionRangeBonus>160</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -29080,11 +29080,11 @@
 		<ScopeMagFactor>3.6</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>14</AimBonus>
-		<MinRangeForAimBonus>140</MinRangeForAimBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>200</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>40</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>60</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -29142,13 +29142,13 @@
 		<ScopeMagFactor>3</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>120</MinRangeForAimBonus>
+		<MinRangeForAimBonus>15</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
-		<VisionRangeBonus>20</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>10</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>24</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>60</PercentTunnelVision>
@@ -29200,13 +29200,13 @@
 		<ScopeMagFactor>6</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>17</AimBonus>
-		<MinRangeForAimBonus>160</MinRangeForAimBonus>
+		<MinRangeForAimBonus>30</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
-		<VisionRangeBonus>20</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>240</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>60</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>10</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>48</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>70</PercentTunnelVision>
@@ -29259,13 +29259,13 @@
 		<ScopeMagFactor>9</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>19</AimBonus>
-		<MinRangeForAimBonus>200</MinRangeForAimBonus>
+		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-7</PercentAPReduction>
-		<VisionRangeBonus>50</VisionRangeBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>360</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>25</VisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>72</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<DamageBonus>2</DamageBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>80</PercentTunnelVision>
@@ -29317,9 +29317,9 @@
 		<ScopeMagFactor>4</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>9</AimBonus>
-		<MinRangeForAimBonus>150</MinRangeForAimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<DayVisionRangeBonus>160</DayVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -29369,11 +29369,11 @@
 		<ScopeMagFactor>3.8</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>15</AimBonus>
-		<MinRangeForAimBonus>120</MinRangeForAimBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>150</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>60</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>2</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>50</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -29423,10 +29423,10 @@
 		<ScopeMagFactor>1.2</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>6</AimBonus>
-		<MinRangeForAimBonus>60</MinRangeForAimBonus>
+		<MinRangeForAimBonus>0</MinRangeForAimBonus>
 		<PercentAPReduction>20</PercentAPReduction>
-		<DayVisionRangeBonus>50</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>10</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -29472,11 +29472,11 @@
 		<ScopeMagFactor>2</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>100</MinRangeForAimBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>90</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>10</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>18</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
@@ -29524,11 +29524,11 @@
 		<ScopeMagFactor>4</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>16</AimBonus>
-		<MinRangeForAimBonus>140</MinRangeForAimBonus>
-		<NightVisionRangeBonus>30</NightVisionRangeBonus>
-		<DayVisionRangeBonus>120</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>15</NightVisionRangeBonus>
+		<DayVisionRangeBonus>24</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>40</PercentTunnelVision>
@@ -29578,11 +29578,11 @@
 		<ScopeMagFactor>6</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>20</AimBonus>
-		<MinRangeForAimBonus>200</MinRangeForAimBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>240</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>30</MinRangeForAimBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>48</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>25</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>40</PercentTunnelVision>
@@ -29634,11 +29634,11 @@
 		<ScopeMagFactor>4</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>18</AimBonus>
-		<MinRangeForAimBonus>200</MinRangeForAimBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>160</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>32</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>5</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>40</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -29689,10 +29689,10 @@
 		<ScopeMagFactor>8</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>20</AimBonus>
-		<MinRangeForAimBonus>250</MinRangeForAimBonus>
-		<VisionRangeBonus>40</VisionRangeBonus>
+		<MinRangeForAimBonus>70</MinRangeForAimBonus>
+		<VisionRangeBonus>0</VisionRangeBonus>
 		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>320</DayVisionRangeBonus>
+		<DayVisionRangeBonus>70</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>70</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
@@ -29746,11 +29746,11 @@
 		<ScopeMagFactor>3.3</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>8</AimBonus>
-		<MinRangeForAimBonus>60</MinRangeForAimBonus>
+		<MinRangeForAimBonus>15</MinRangeForAimBonus>
 		<PercentAPReduction>5</PercentAPReduction>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
-		<DayVisionRangeBonus>140</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
+		<DayVisionRangeBonus>28</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-2</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -29814,11 +29814,11 @@
 		<ScopeMagFactor>2.5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>13</AimBonus>
-		<MinRangeForAimBonus>120</MinRangeForAimBonus>
-		<NightVisionRangeBonus>80</NightVisionRangeBonus>
-		<DayVisionRangeBonus>100</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>10</MinRangeForAimBonus>
+		<NightVisionRangeBonus>40</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-6</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>40</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -29886,10 +29886,10 @@
 		<ScopeMagFactor>4</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>14</AimBonus>
-		<MinRangeForAimBonus>140</MinRangeForAimBonus>
-		<NightVisionRangeBonus>30</NightVisionRangeBonus>
-		<DayVisionRangeBonus>150</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>15</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -29936,11 +29936,11 @@
 		<ScopeMagFactor>4</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>120</MinRangeForAimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>160</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>32</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-4</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -30042,10 +30042,10 @@
 		<ScopeMagFactor>4.2</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>12</AimBonus>
-		<MinRangeForAimBonus>130</MinRangeForAimBonus>
-		<NightVisionRangeBonus>20</NightVisionRangeBonus>
-		<DayVisionRangeBonus>160</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<DayVisionRangeBonus>32</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -30094,9 +30094,9 @@
 		<ScopeMagFactor>3.8</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>8</AimBonus>
-		<MinRangeForAimBonus>120</MinRangeForAimBonus>
-		<DayVisionRangeBonus>150</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -30142,10 +30142,10 @@
 		<ScopeMagFactor>5</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>10</AimBonus>
-		<MinRangeForAimBonus>160</MinRangeForAimBonus>
+		<MinRangeForAimBonus>20</MinRangeForAimBonus>
 		<PercentAPReduction>10</PercentAPReduction>
-		<DayVisionRangeBonus>200</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<DamageBonus>1</DamageBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -30314,7 +30314,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ToHitBonus>2</ToHitBonus>
 		<RangeBonus>10</RangeBonus>
-		<NightVisionRangeBonus>10</NightVisionRangeBonus>
+		<NightVisionRangeBonus>5</NightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -30478,7 +30478,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ToHitBonus>1</ToHitBonus>
 		<PercentReadyTimeAPReduction>-3</PercentReadyTimeAPReduction>
-		<FlashLightRange>30</FlashLightRange>
+		<FlashLightRange>13</FlashLightRange>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -30547,7 +30547,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ToHitBonus>2</ToHitBonus>
 		<PercentReadyTimeAPReduction>-5</PercentReadyTimeAPReduction>
-		<FlashLightRange>36</FlashLightRange>
+		<FlashLightRange>16</FlashLightRange>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -33289,9 +33289,9 @@
 		<BR_NewInventory>10</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<VisionRangeBonus>50</VisionRangeBonus>
-		<DayVisionRangeBonus>250</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>0</VisionRangeBonus>
+		<DayVisionRangeBonus>60</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<usSpotting>50</usSpotting>
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -33327,9 +33327,9 @@
 		<BR_NewInventory>8</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<VisionRangeBonus>40</VisionRangeBonus>
-		<NightVisionRangeBonus>40</NightVisionRangeBonus>
-		<DayVisionRangeBonus>300</DayVisionRangeBonus>
+		<VisionRangeBonus>0</VisionRangeBonus>
+		<NightVisionRangeBonus>20</NightVisionRangeBonus>
+		<DayVisionRangeBonus>100</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>60</BrightLightVisionRangeBonus>
 		<usSpotting>70</usSpotting>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -33366,11 +33366,11 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<VisionRangeBonus>40</VisionRangeBonus>
-		<NightVisionRangeBonus>180</NightVisionRangeBonus>
-		<DayVisionRangeBonus>150</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>30</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>20</VisionRangeBonus>
+		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<DayVisionRangeBonus>30</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<usSpotting>60</usSpotting>
 		<PercentTunnelVision>40</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -33406,11 +33406,11 @@
 		<BR_NewInventory>8</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<VisionRangeBonus>40</VisionRangeBonus>
-		<NightVisionRangeBonus>150</NightVisionRangeBonus>
-		<DayVisionRangeBonus>100</DayVisionRangeBonus>
-		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<VisionRangeBonus>20</VisionRangeBonus>
+		<NightVisionRangeBonus>30</NightVisionRangeBonus>
+		<DayVisionRangeBonus>20</DayVisionRangeBonus>
+		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<usSpotting>35</usSpotting>
 		<PercentTunnelVision>50</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -33447,11 +33447,11 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<VisionRangeBonus>100</VisionRangeBonus>
+		<VisionRangeBonus>50</VisionRangeBonus>
 		<NightVisionRangeBonus>-50</NightVisionRangeBonus>
-		<DayVisionRangeBonus>500</DayVisionRangeBonus>
+		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>-60</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<usSpotting>90</usSpotting>
 		<PercentTunnelVision>60</PercentTunnelVision>
 		<Damageable>1</Damageable>
@@ -36073,7 +36073,7 @@
 		<usPrice>2400</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<FlashLightRange>80</FlashLightRange>
+		<FlashLightRange>36</FlashLightRange>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -36131,7 +36131,7 @@
 		<usPrice>25</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<FlashLightRange>35</FlashLightRange>
+		<FlashLightRange>16</FlashLightRange>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -36190,7 +36190,7 @@
 		<ubCoolness>1</ubCoolness>
 		<bRepairEase>4</bRepairEase>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<FlashLightRange>36</FlashLightRange>
+		<FlashLightRange>16</FlashLightRange>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -36245,7 +36245,7 @@
 		<usPrice>180</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<FlashLightRange>45</FlashLightRange>
+		<FlashLightRange>20</FlashLightRange>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
@@ -52870,7 +52870,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<BR_NewInventory>20</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>0</BrightLightVisionRangeBonus>
 		<CamoBonus>7</CamoBonus>
 		<StealthBonus>2</StealthBonus>
 		<Damageable>1</Damageable>
@@ -52898,8 +52898,8 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>2</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<DesertCamoBonus>7</DesertCamoBonus>
 		<StealthBonus>2</StealthBonus>
 		<Covert>1</Covert>
@@ -52928,7 +52928,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<BR_NewInventory>10</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<CamoBonus>10</CamoBonus>
 		<StealthBonus>5</StealthBonus>
 		<Damageable>1</Damageable>
@@ -52956,7 +52956,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<ubCoolness>3</ubCoolness>
 		<BR_NewInventory>8</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<DesertCamoBonus>10</DesertCamoBonus>
 		<StealthBonus>5</StealthBonus>
 		<Damageable>1</Damageable>
@@ -52984,8 +52984,8 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<BR_NewInventory>8</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>2</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<StealthBonus>5</StealthBonus>
 		<Covert>1</Covert>
 		<Damageable>1</Damageable>
@@ -53134,7 +53134,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<BR_NewInventory>6</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<DesertCamoBonus>10</DesertCamoBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53187,7 +53187,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<usPrice>150</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<Covert>1</Covert>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53212,7 +53212,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<usPrice>135</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<CamoBonus>5</CamoBonus>
 		<DesertCamoBonus>5</DesertCamoBonus>
 		<Covert>1</Covert>
@@ -53240,7 +53240,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<ubCoolness>1</ubCoolness>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<CamoBonus>5</CamoBonus>
 		<Covert>1</Covert>
 		<Damageable>1</Damageable>
@@ -53265,7 +53265,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<usPrice>90</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<SnowCamoBonus>5</SnowCamoBonus>
 		<Covert>1</Covert>
 		<Damageable>1</Damageable>
@@ -53292,7 +53292,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<ubCoolness>1</ubCoolness>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<CamoBonus>8</CamoBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53317,7 +53317,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<ubCoolness>3</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<Covert>1</Covert>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53346,7 +53346,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<CamoBonus>12</CamoBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -53373,7 +53373,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<bRepairEase>5</bRepairEase>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>30</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>15</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
@@ -53572,7 +53572,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<HearingRangeBonus>-1</HearingRangeBonus>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<StealthBonus>-5</StealthBonus>
 		<AttentionItem>1</AttentionItem>
 		<Damageable>1</Damageable>
@@ -53600,7 +53600,7 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<ubCoolness>1</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 		<Covert>1</Covert>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -55611,8 +55611,8 @@ the globe.</szBRDesc>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>-1</AimBonus>
 		<HearingRangeBonus>-1</HearingRangeBonus>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>2</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
@@ -55642,8 +55642,8 @@ the globe.</szItemDesc>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>-1</AimBonus>
 		<HearingRangeBonus>-1</HearingRangeBonus>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>2</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -55674,8 +55674,8 @@ the globe.</szItemDesc>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<AimBonus>-1</AimBonus>
 		<HearingRangeBonus>-1</HearingRangeBonus>
-		<DayVisionRangeBonus>10</DayVisionRangeBonus>
-		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
+		<DayVisionRangeBonus>2</DayVisionRangeBonus>
+		<BrightLightVisionRangeBonus>10</BrightLightVisionRangeBonus>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
 		<Sinks>1</Sinks>
@@ -142310,7 +142310,7 @@ the globe.</szItemDesc>
 		<BR_ROF>5000</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>12</DirtIncreaseFactor>
-		<VisionRangeBonus>60</VisionRangeBonus>
+		<VisionRangeBonus>30</VisionRangeBonus>
 		<DamageChance>5</DamageChance>
 		<Beltfed>1</Beltfed>
 		<Damageable>1</Damageable>
