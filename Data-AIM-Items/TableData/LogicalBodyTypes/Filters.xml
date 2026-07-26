@@ -86,7 +86,7 @@
 	</Filter>
 	<Filter name="CamoPants">
 		<OR>
-			<LEGPOS op="in">2901, 2905, 2907, 2909, 2910, 2911, 2912</LEGPOS>
+			<LEGPOS op="in">2901, 2905, 2907, 2909, 2910, 2912</LEGPOS>
 			
 		</OR>
 	</Filter>
@@ -119,13 +119,13 @@
 	</Filter>
 	<Filter name="DesertCamoPants">
 		<OR>
-			<LEGPOS op="in">2942, 2943, 2944, 2933, 2934, 2935, 2954, 2955, 2956, 2966, 2967, 2968, 2903</LEGPOS>
+			<LEGPOS op="in">2942, 2943, 2944, 2933, 2934, 2935, 2954, 2955, 2956, 2966, 2967, 2968, 2903, 2911</LEGPOS>
 			
 		</OR>
 	</Filter>
 	<Filter name="DesertCamoLongsleeves">
 		<OR>
-			<VESTPOS op="in">2740, 2703, 2754, 2755, 2756, 2766, 2767, 2768, 2778, 2779, 2780, 2793, 2794, 2795, 2802, 2803, 2804, 2814, 2815, 2816, 2823, 2824, 2825, 2832, 2833, 2834, 2841, 2842, 2843, 2853, 2854, 2855, 2862, 2863, 2864, 2874, 2875, 2876, 2883, 2884, 2885, 2895, 2896, 2897</VESTPOS>
+			<VESTPOS op="in">2709, 2740, 2703, 2754, 2755, 2756, 2766, 2767, 2768, 2778, 2779, 2780, 2793, 2794, 2795, 2802, 2803, 2804, 2814, 2815, 2816, 2823, 2824, 2825, 2832, 2833, 2834, 2841, 2842, 2843, 2853, 2854, 2855, 2862, 2863, 2864, 2874, 2875, 2876, 2883, 2884, 2885, 2895, 2896, 2897</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="UrbanCamoPants">
@@ -136,7 +136,7 @@
 	</Filter>
 	<Filter name="UrbanCamoLongsleeves">
 		<OR>
-			<VESTPOS op="in">2702, 2739, 188, 2721, 2722, 2723, 2724, 2892, 2893, 2894, 2880, 2881, 2882, 2859, 2860, 2861, 2838, 2839, 2840, 2751, 2752, 2753, 2763, 2764, 2765, 2775, 2776, 2777, 2799, 2800, 2801, 2820, 2821, 2822</VESTPOS>
+			<VESTPOS op="in">2702, 2704, 2718, 2739, 2784, 2785, 2786, 188, 2721, 2722, 2723, 2724, 2892, 2893, 2894, 2880, 2881, 2882, 2859, 2860, 2861, 2838, 2839, 2840, 2751, 2752, 2753, 2763, 2764, 2765, 2775, 2776, 2777, 2799, 2800, 2801, 2820, 2821, 2822</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="GhilliePants">
@@ -373,7 +373,7 @@
 	</Filter>
 	<Filter name="Longsleeves">
 		<AND>
-			<VESTPOS op="in">2710, 2704, 2708, 2709, 2725, 2726, 188, 189, 164, 167, 2721</VESTPOS>
+			<VESTPOS op="in">2710, 2708, 2725, 2726, 188, 189, 164, 167, 2721</VESTPOS>
 		</AND>
 	</Filter>
 	<Filter name="LongsleevesAndPistolLeft">
@@ -469,6 +469,7 @@
 	<Filter name="DressUniformPants">
 		<OR>
 			<VESTPOS op="in">2725</VESTPOS>
+			<LEGPOS op="in">2908</LEGPOS>
 			<VESTPOSATTACHMENT0 op="in">2725</VESTPOSATTACHMENT0>
 			<VESTPOSATTACHMENT1 op="in">2725</VESTPOSATTACHMENT1>
 			<VESTPOSATTACHMENT2 op="in">2725</VESTPOSATTACHMENT2>
@@ -675,7 +676,7 @@
 	</Filter>
 	<Filter name="Helmet">
 		<OR>
-			<HELMETPOS op="in">177, 180, 181, 2618, 2632, 2633, 2634, 2638, 2639, 2640, 2641, 2642, 2643, 2644, 2645, 2646, 2647, 2648, 2649, 2650, 2651, 2652, 2653, 2654, 2655, 2656, 2657, 2658, 2659, 2660, 2661, 2662, 2663, 2664, 2665, 2666, 2667, 2668, 2669, 2670, 2671, 2672, 2673, 2674, 2675, 2676, 2677, 2678, 2679, 2680, 2681, 2682, 2683, 2684, 2685, 2686, 2687, 2688, 2689, 2690, 2691, 2692, 2693, 2694, 2695, 2696, 2697</HELMETPOS>
+			<HELMETPOS op="in">177, 180, 181, 2610, 2618, 2620, 2632, 2633, 2634, 2638, 2639, 2640, 2641, 2642, 2643, 2647, 2648, 2649, 2650, 2651, 2652, 2653, 2654, 2655, 2656, 2657, 2658, 2659, 2660, 2661, 2662, 2663, 2664, 2665, 2666, 2667, 2668, 2669, 2670, 2672, 2673, 2674, 2675, 2676, 2677, 2678, 2679, 2680, 2681, 2682, 2683, 2684, 2685, 2687, 2688, 2689, 2690, 2691, 2693, 2694, 2695, 2696, 2697</HELMETPOS>
 		</OR>
 	</Filter>
 	<Filter name="HelmetAndPistolLeft">
@@ -704,7 +705,7 @@
 	</Filter>
 	<Filter name="CamoHelmet">
 		<OR>
-			<HELMETPOS op="in">2635, 2636, 2637</HELMETPOS>
+			<HELMETPOS op="in">2635, 2636, 2637, 2671</HELMETPOS>
 			<HELMETPOSATTACHMENT0 op="btwn">1661, 1672</HELMETPOSATTACHMENT0>
 			<HELMETPOSATTACHMENT1 op="btwn">1661, 1672</HELMETPOSATTACHMENT1>
 			<HELMETPOSATTACHMENT2 op="btwn">1661, 1672</HELMETPOSATTACHMENT2>
@@ -766,7 +767,7 @@
 	</Filter>
 	<Filter name="KevlarHelmet">
 		<AND>
-			<HELMETPOS op="in">180, 2641, 2642, 2643, 2644, 2645, 2646</HELMETPOS>
+			<HELMETPOS op="in">180, 2641, 2642, 2643</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="KevlarHelmetAndPistolLeft">
@@ -795,7 +796,7 @@
 	</Filter>
 	<Filter name="SWATHelmet">
 		<AND>
-			<HELMETPOS op="in">2698, 2699, 2700</HELMETPOS>
+			<HELMETPOS op="in">2644, 2645, 2646, 2698, 2699, 2700</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="SWATHelmetAndPistolLeft">
@@ -3230,7 +3231,7 @@
 	</Filter>
 	<Filter name="BooneyHat">
 		<AND>
-			<HELMETPOS op="in">2603, 2604, 2612, 2613, 2614, 2615, 2616, 2617, 2619, 2626</HELMETPOS>
+			<HELMETPOS op="in">2603, 2604, 2612, 2613, 2615, 2617, 2619</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="BooneyHatAndPistolLeft">
@@ -3259,7 +3260,7 @@
 	</Filter>
 	<Filter name="Ballcap">
 		<AND>
-			<HELMETPOS op="in">2601, 2602, 2605</HELMETPOS>
+			<HELMETPOS op="in">2601, 2602</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="BallcapAndPistolLeft">
@@ -3437,7 +3438,7 @@
 	</Filter>
 	<Filter name="BlackCap">
 		<AND>
-			<HELMETPOS op="in">-1</HELMETPOS>
+			<HELMETPOS op="in">2600, 2605, 2607, 2608, 2609, 2625</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="BlackCapAndPistolLeft">
@@ -3466,7 +3467,7 @@
 	</Filter>
 	<Filter name="CowboyHat">
 		<AND>
-			<HELMETPOS op="in">-1</HELMETPOS>
+			<HELMETPOS op="in">2614, 2616, 2626</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="CowboyHatAndPistolLeft">
@@ -3495,11 +3496,8 @@
 	</Filter>
 	<Filter name="ChestRig">
 		<OR>
-			<VESTPOS op="in">2728, 2729, 2730, 2731, 2732, 168, 2733</VESTPOS>  <!-- Ballistic Vest, Bristol Vest -->
-			<VESTPOS op="btwn">2745, 2747</VESTPOS>  <!-- LBA -->
+			<VESTPOS op="in">2728, 2729, 2730, 2732, 168, 2733</VESTPOS>  <!-- Ballistic Vest -->
 			<VESTPOS op="btwn">2772, 2780</VESTPOS>  <!-- Flak Jacket & Camo -->
-			<VESTPOS op="btwn">2734, 2736</VESTPOS>  <!-- Bristol Vest & Jumper -->
-			<VESTPOS op="btwn">2748, 2756</VESTPOS>  <!-- LBA & Camo -->
 			
 		</OR>
 	</Filter>
@@ -3530,7 +3528,7 @@
 	<Filter name="KevlarVest">
 		<OR>
 			<!-- Kevlar Vest -->
-			<VESTPOS op="in">2781, 2782, 2783, 2784, 2785, 2786, 2787, 2788, 2789, 2790, 2791, 2792, 2793, 2794, 2795, 2796, 2797, 2798, 2799, 2800, 2801, 2802, 2803, 2804, 2757, 2758, 2759, 2760, 2761, 2762, 2763, 2764, 2765, 2766, 2767, 2768</VESTPOS>
+			<VESTPOS op="in">2745, 2746, 2747, 2748, 2749, 2750, 2751, 2752, 2753, 2754, 2755, 2756, 2781, 2782, 2783, 2784, 2785, 2786, 2787, 2788, 2789, 2790, 2791, 2792, 2793, 2794, 2795, 2796, 2797, 2798, 2799, 2800, 2801, 2802, 2803, 2804, 2757, 2758, 2759, 2760, 2761, 2762, 2763, 2764, 2765, 2766, 2767, 2768</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="KevlarVestAndPistolLeft">
@@ -3589,7 +3587,7 @@
 	</Filter>
 	<Filter name="FlakVest">
 		<OR>
-			<VESTPOS op="in">2769, 2770, 2771, 2772, 2773, 2774, 2775, 2776, 2777, 2778, 2779, 2780</VESTPOS>
+			<VESTPOS op="in">2731, 2734, 2735, 2736, 2769, 2770, 2771, 2772, 2773, 2774, 2775, 2776, 2777, 2778, 2779, 2780</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="FlakVestAndPistolLeft">
@@ -3618,7 +3616,7 @@
 	</Filter>
 	<Filter name="GuardianVest">
 		<OR>
-			<VESTPOS op="in">2805, 2806, 2807, 2808, 2809, 2810, 2811, 2812, 2813, 2814, 2815, 2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823, 2824, 2825, 2737, 2738, 2739, 2740</VESTPOS>
+			<VESTPOS op="in">2805, 2806, 2807, 2808, 2809, 2810, 2811, 2812, 2813, 2814, 2815, 2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823, 2824, 2825</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="GuardianVestAndPistolLeft">
@@ -3734,7 +3732,7 @@
 	</Filter>
 	<Filter name="DyneemaVest">
 		<OR>
-			<VESTPOS op="in">2865, 2866, 2867, 2868, 2869, 2870, 2871, 2872, 2873, 2874, 2875, 2876, 2877, 2878, 2879, 2880, 2881, 2882, 2883, 2884, 2885, 2741, 2742, 2743, 2744</VESTPOS>
+			<VESTPOS op="in">2737, 2738, 2739, 2740, 2865, 2866, 2867, 2868, 2869, 2870, 2871, 2872, 2873, 2874, 2875, 2876, 2877, 2878, 2879, 2880, 2881, 2882, 2883, 2884, 2885, 2741, 2742, 2743, 2744</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="DyneemaVestAndPistolLeft">
@@ -3773,7 +3771,7 @@
 	</Filter>
 	<Filter name="EODhelmet">
 		<OR>
-			<HELMETPOS op="in">2972, 2973, 2974</HELMETPOS>
+			<HELMETPOS op="in">2686, 2692, 2972, 2973, 2974</HELMETPOS>
 		</OR>
 	</Filter>
 	<Filter name="EODvestAndPistolLeft">
