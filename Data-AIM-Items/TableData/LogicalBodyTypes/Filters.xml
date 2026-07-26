@@ -767,7 +767,7 @@
 	</Filter>
 	<Filter name="KevlarHelmet">
 		<AND>
-			<HELMETPOS op="in">180, 2610, 2620, 2641, 2642, 2643</HELMETPOS>
+			<HELMETPOS op="in">180, 2641, 2642, 2643</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="KevlarHelmetAndPistolLeft">
@@ -3260,7 +3260,7 @@
 	</Filter>
 	<Filter name="Ballcap">
 		<AND>
-			<HELMETPOS op="in">2602</HELMETPOS>
+			<HELMETPOS op="in">2601, 2602</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="BallcapAndPistolLeft">
@@ -3284,35 +3284,6 @@
 	<Filter name="BallcapAndBluntMeleeWeapon">
 		<AND>
 			<FILTER>Ballcap</FILTER>
-			<FILTER>HasBluntMeleeWeaponInHand</FILTER>
-		</AND>
-	</Filter>
-	<Filter name="GreenBallcap">
-		<AND>
-			<HELMETPOS op="in">2600, 2601, 2605, 2607, 2608, 2609, 2625</HELMETPOS>
-		</AND>
-	</Filter>
-	<Filter name="GreenBallcapAndPistolLeft">
-		<AND>
-			<FILTER>GreenBallcap</FILTER>
-			<FILTER>HasPistolOrMPistolInLeftHand</FILTER>
-		</AND>
-	</Filter>
-	<Filter name="GreenBallcapAndPistol">
-		<AND>
-			<FILTER>GreenBallcap</FILTER>
-			<FILTER>HasPistolOrMPistolInRightHand</FILTER>
-		</AND>
-	</Filter>
-	<Filter name="GreenBallcapAndRifle">
-		<AND>
-			<FILTER>GreenBallcap</FILTER>
-			<FILTER>HasRifleTypeWeaponInHand</FILTER>
-		</AND>
-	</Filter>
-	<Filter name="GreenBallcapAndBluntMeleeWeapon">
-		<AND>
-			<FILTER>GreenBallcap</FILTER>
 			<FILTER>HasBluntMeleeWeaponInHand</FILTER>
 		</AND>
 	</Filter>
@@ -3467,7 +3438,7 @@
 	</Filter>
 	<Filter name="BlackCap">
 		<AND>
-			<HELMETPOS op="in">-1</HELMETPOS>
+			<HELMETPOS op="in">2600, 2605, 2607, 2608, 2609, 2625</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="BlackCapAndPistolLeft">
@@ -3892,10 +3863,6 @@
 		<OR>
 			<HEAD1POS op="in">213, 452, 453, 481</HEAD1POS>
 			<HEAD2POS op="in">213, 452, 453, 481</HEAD2POS>
-			<HELMETPOSATTACHMENT0 op="in">213</HELMETPOSATTACHMENT0>
-			<HELMETPOSATTACHMENT1 op="in">213</HELMETPOSATTACHMENT1>
-			<HELMETPOSATTACHMENT2 op="in">213</HELMETPOSATTACHMENT2>
-			<HELMETPOSATTACHMENT3 op="in">213</HELMETPOSATTACHMENT3>
 		</OR>
 	</Filter>
 	<Filter name="GasmaskAndPistolLeft">
