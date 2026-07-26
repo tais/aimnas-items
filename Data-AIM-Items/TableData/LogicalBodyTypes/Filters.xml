@@ -3260,7 +3260,7 @@
 	</Filter>
 	<Filter name="Ballcap">
 		<AND>
-			<HELMETPOS op="in">2601, 2602</HELMETPOS>
+			<HELMETPOS op="in">-1</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="BallcapAndPistolLeft">
@@ -3284,6 +3284,93 @@
 	<Filter name="BallcapAndBluntMeleeWeapon">
 		<AND>
 			<FILTER>Ballcap</FILTER>
+			<FILTER>HasBluntMeleeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GreenBallcap">
+		<AND>
+			<HELMETPOS op="in">2601</HELMETPOS>
+		</AND>
+	</Filter>
+	<Filter name="GreenBallcapAndPistolLeft">
+		<AND>
+			<FILTER>GreenBallcap</FILTER>
+			<FILTER>HasPistolOrMPistolInLeftHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GreenBallcapAndPistol">
+		<AND>
+			<FILTER>GreenBallcap</FILTER>
+			<FILTER>HasPistolOrMPistolInRightHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GreenBallcapAndRifle">
+		<AND>
+			<FILTER>GreenBallcap</FILTER>
+			<FILTER>HasRifleTypeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="GreenBallcapAndBluntMeleeWeapon">
+		<AND>
+			<FILTER>GreenBallcap</FILTER>
+			<FILTER>HasBluntMeleeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="TanBallcap">
+		<AND>
+			<HELMETPOS op="in">2602</HELMETPOS>
+		</AND>
+	</Filter>
+	<Filter name="TanBallcapAndPistolLeft">
+		<AND>
+			<FILTER>TanBallcap</FILTER>
+			<FILTER>HasPistolOrMPistolInLeftHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="TanBallcapAndPistol">
+		<AND>
+			<FILTER>TanBallcap</FILTER>
+			<FILTER>HasPistolOrMPistolInRightHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="TanBallcapAndRifle">
+		<AND>
+			<FILTER>TanBallcap</FILTER>
+			<FILTER>HasRifleTypeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="TanBallcapAndBluntMeleeWeapon">
+		<AND>
+			<FILTER>TanBallcap</FILTER>
+			<FILTER>HasBluntMeleeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="DarkBallcap">
+		<AND>
+			<HELMETPOS op="in">2605</HELMETPOS>
+		</AND>
+	</Filter>
+	<Filter name="DarkBallcapAndPistolLeft">
+		<AND>
+			<FILTER>DarkBallcap</FILTER>
+			<FILTER>HasPistolOrMPistolInLeftHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="DarkBallcapAndPistol">
+		<AND>
+			<FILTER>DarkBallcap</FILTER>
+			<FILTER>HasPistolOrMPistolInRightHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="DarkBallcapAndRifle">
+		<AND>
+			<FILTER>DarkBallcap</FILTER>
+			<FILTER>HasRifleTypeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="DarkBallcapAndBluntMeleeWeapon">
+		<AND>
+			<FILTER>DarkBallcap</FILTER>
 			<FILTER>HasBluntMeleeWeaponInHand</FILTER>
 		</AND>
 	</Filter>
@@ -3438,7 +3525,7 @@
 	</Filter>
 	<Filter name="BlackCap">
 		<AND>
-			<HELMETPOS op="in">2600, 2605, 2607, 2608, 2609, 2625</HELMETPOS>
+			<HELMETPOS op="in">2600, 2607, 2608, 2609, 2625</HELMETPOS>
 		</AND>
 	</Filter>
 	<Filter name="BlackCapAndPistolLeft">
