@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LogicalAnimationSurfaces>
-	<Layer name="head">
+	<Layer name="helmet">
 		<!-- Dedicated surfaces prevent cap palettes from sharing cached video objects. -->
 		<LayerProp filter="GreenBallcapAndPistolLeft" palette="WoodlandCamo">
 			<Surface name="RGF_EMPTY_RUN_BCAP_AIG_001" animsurface="RGFPISTOL_RUN" />
