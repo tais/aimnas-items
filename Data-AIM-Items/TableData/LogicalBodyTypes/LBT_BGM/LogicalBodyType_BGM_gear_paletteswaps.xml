@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LogicalAnimationSurfaces>
+	<Layer name="head">
+		<!-- Loaded before the inherited gear definitions so these caps use a fixed woodland palette. -->
+		<LayerProp filter="GreenBallcapAndPistolLeft" palette="WoodlandCamo">
+			<Surface name="BGMEMPTY_RUN_BCAP" animsurface="BGMPISTOL_RUN" />
+			<Surface name="BGMDUAL_SDSTP_BCAP" animsurface="BGMSIDESTEP" />
+		</LayerProp>
+		<LayerProp filter="GreenBallcapAndPistol" palette="WoodlandCamo">
+			<Surface name="BGMPISTOL_WALK_BCAP" animsurface="BGMNOTHING_WALK" />
+			<Surface name="BGMEMPTY_RUN_BCAP" animsurface="BGMPISTOL_RUN" />
+			<Surface name="BGMEMPTY_RUN_BCAP" animsurface="BGMNOTHING_RUN" />
+			<Surface name="BGMPISTOL_SDSTP_BCAP" animsurface="BGMSIDESTEP" />
+			<Surface name="BGMEMPTY_DRUNK_BCAP" animsurface="BGMPISTOLDRUNK" />
+			<Surface name="BGM_WATER_PISTOL_IDLE_BCAP" animsurface="BGMWATER_N_STD" />
+			<Surface name="BGM_WATER_PISTOL_WALK_BCAP" animsurface="BGMWATER_N_WALK" />
+			<Surface name="BGM_WATER_PISTOL_AIM_BCAP" animsurface="BGMWATER_N_AIM" />
+		</LayerProp>
+		<LayerProp filter="GreenBallcapAndRifle" palette="WoodlandCamo">
+			<Surface name="BGM_RIFLE_OPEN_BCAP" animsurface="BGMOPEN" />
+			<Surface name="BGMRIFLE_COWER_BCAP" animsurface="BGMCOWER" />
+			<Surface name="BGMRIFLE_PRN_COWER_BCAP" animsurface="BGM_COWER_PRONE" />
+			<Surface name="BGMRIFLE_KICKDOOR_BCAP" animsurface="BGMKICKDOOR" />
+			<Surface name="BGMRIFLE_DUST_SHOE_BCAP" animsurface="BGMSHOEDUST" />
+			<Surface name="BGMRIFLE_WIPE_BCAP" animsurface="BGMHEADTURN" />
+			<Surface name="BGMRIFLE_NECK_BCAP" animsurface="BGMIDLENECK" />
+			<Surface name="BGMRIFLE_NECK_HERO_BCAP" animsurface="BGMIDLENECK2" />
+			<Surface name="BGMRIFLE_DRUNK_BCAP" animsurface="BGMDRUNK" />
+			<Surface name="BGMRIFLE_LOW_BCAP" animsurface="BGMSHOOT_LOW" />
+			<Surface name="BGMRIFLE_HIP_LOW_BCAP" animsurface="RGM_HIP_LOW" />
+			<Surface name="BGMRIFLE_SIDESTEP_AIM_BCAP" animsurface="BGMSIDESTEP_R_RDY" />
+			<Surface name="BGMRIFLE_SIDESTEP_AIM_HERO_BCAP" animsurface="BGMSIDESTEP_R_RDY2" />
+			<Surface name="BGMRIFLE_ROLL_SIDE_BCAP" animsurface="BGMROLL_PR" />
+		</LayerProp>
+		<LayerProp filter="GreenBallcapAndBluntMeleeWeapon" palette="WoodlandCamo">
+			<Surface name="BGM_BLUNT_BCAP" animsurface="BGMPUNCH" />
+			<Surface name="BGMCROWBAR_CR_HIT_BCAP" animsurface="BGMPUNCHLOW" />
+		</LayerProp>
+		<LayerProp filter="GreenBallcap" palette="WoodlandCamo">
+			<Surface name="BGMRIFLE_IDLE_HERO_BCAP" animsurface="BGMSTANDING" />
+			<Surface name="BGMRIFLE_IDLE_BCAP" animsurface="BGMTHREATENSTAND" />
+			<Surface name="BGMRIFLE_WALK_HERO_BCAP" animsurface="BGMWALKING" />
+			<Surface name="BGMBASICWALK_BCAP" animsurface="BGMWALK2" />
+			<Surface name="BGMRUNNING_HERO_BCAP" animsurface="BGMRUNNING" />
+			<Surface name="BGMRUNNING_BCAP" animsurface="BGMRUN2" />
+			<Surface name="BGMRIFLE_CROUCH_HERO_BCAP" animsurface="BGMCROUCHING" />
+			<Surface name="BGMRIFLE_CROUCH_BIGM_BCAP" animsurface="BGMCROUCHTRANS" />
+			<Surface name="BGMRIFLE_SWAT_BCAP" animsurface="BGMSNEAKING" />
+			<Surface name="BGMRIFLE_WALK_RDY_HERO_BCAP" animsurface="BGMWALK_R_RDY2" />
+			<Surface name="BGMRIFLE_WALK_BCAP" animsurface="BGMWALK_R_RDY" />
+			<Surface name="BGMRIFLE_WALK_CROUCH_BCAP" animsurface="BGMCROUCH_R_RDY" />
+			<Surface name="BGM_CROUCHWALK_BCAP" animsurface="BGMCROUCH_P_RDY" />
+			<Surface name="BGM_CROUCHWALK_DUAL_BCAP" animsurface="BGMCROUCH_D_RDY" />
+			<Surface name="BGMRIFLE_RAISE_HERO_BCAP" animsurface="BGMRAISE" />
+			<Surface name="BGMRIFLE_RAISE_BCAP" animsurface="BGMRAISE2" />
+			<Surface name="BGMRIFLE_AIM_HERO_BCAP" animsurface="BGMSTANDAIM" />
+			<Surface name="BGMRIFLE_AIM_BCAP" animsurface="BGMSTANDAIM2" />
+			<Surface name="BGMRIFLE_AIM_BCAP" animsurface="BGMSRAIMALT" />
+			<Surface name="BGMRIFLE_HIP_BCAP" animsurface="BGM_HIP_AIM" />
+			<Surface name="BGMRIFLE_HIP_HERO_BCAP" animsurface="BGMHIPAIMALT" />
+			<Surface name="BGMRIFLE_CR_AIM_HERO_BCAP" animsurface="BGMCROUCHAIM" />
+			<Surface name="BGMRIFLE_PRONE_HERO_BCAP" animsurface="BGMPRONE" />
+			<Surface name="BGMRIFLE_SIDESTEP_BCAP" animsurface="BGMSIDESTEP" />
+			<Surface name="BGM_HOP_BCAP" animsurface="BGMHOPFENCE" />
+			<Surface name="BGM_HOP_BCAP" animsurface="BGMJUMPWINDOWS" />
+			<Surface name="BGM_PUNCH_BCAP" animsurface="BGMPUNCH" />
+			<Surface name="BGM_IDLE_BCAP" animsurface="BGMNOTHING_STD" />
+			<Surface name="BGM_IDLE_BCAP" animsurface="BGMDBLBREATH" />
+			<Surface name="BGM_OPEN_BCAP" animsurface="BGMOPEN" />
+			<Surface name="BGM_PICKUP_BCAP" animsurface="BGMPICKUP" />
+			<Surface name="BGMMEDIC_CROUCH_BCAP" animsurface="BGMMEDIC" />
+			<Surface name="BGMRIFLE_HIT_HERO_BCAP" animsurface="BGMRHIT" />
+			<Surface name="BGMEMPTY_CROUCH_BCAP" animsurface="BGMNOTHING_CROUCH" />
+			<Surface name="BGMEMPTY_SWAT_BCAP" animsurface="BGMNOTHING_SWAT" />
+			<Surface name="BGMEMPTY_SWAT_BCAP" animsurface="BGMSWKNIFE" />
+			<Surface name="BGMEMPTY_RUN_BCAP" animsurface="BGMPISTOL_RUN" />
+			<Surface name="BGMEMPTY_RUN_BCAP" animsurface="BGMNOTHING_RUN" />
+			<Surface name="BGMEMPTY_WALK_BCAP" animsurface="BGMNOTHING_WALK" />
+			<Surface name="BGMEMPTY_PRONE_BCAP" animsurface="BGMHANDGUN_PRONE" />
+			<Surface name="BGMPISTOL_IDLE_BCAP" animsurface="BGMPISTOLBREATH" />
+			<Surface name="BGMPISTOL_AIM_BCAP" animsurface="BGMHANDGUN_S_SHOT" />
+			<Surface name="BGMPISTOL_AIM_1H_BCAP" animsurface="BGM_PFSHOT_AIM" />
+			<Surface name="BGMPISTOL_RDY_WALK_BCAP" animsurface="BGMWALK_P_RDY" />
+			<Surface name="BGMDUAL_RDY_WALK_BCAP" animsurface="BGMWALK_D_RDY" />
+			<Surface name="BGMPISTOL_CR_AIM_BCAP" animsurface="BGMHANDGUN_C_SHOT" />
+			<Surface name="BGMPISTOL_SDSTP_AIM_BCAP" animsurface="BGMSIDESTEP_P_RDY" />
+			<Surface name="BGMDUAL_SDSTP_AIM_BCAP" animsurface="BGMSIDESTEP_D_RDY" />
+			<Surface name="BGMPISTOL_LOW_BCAP" animsurface="BGMPISTOLSHOOTLOW" />
+			<Surface name="BGMPISTOL_LOW_BCAP" animsurface="BGMSHOOT_LOW" />
+			<Surface name="BGMDUAL_AIM_BCAP" animsurface="BGMSTANDDWALAIM" />
+			<Surface name="BGMDUAL_CR_AIM_BCAP" animsurface="BGMCDBLSHOT" />
+			<Surface name="BGMMEDIC_PRONE_BCAP" animsurface="BGMMEDICPRN" />
+			<Surface name="BGMCOWER_PRONE_BCAP" animsurface="BGM_COWER_PRONE" />
+			<Surface name="BGMDIE_PRONE_BCAP" animsurface="BGMHITPRONE" />
+			<Surface name="BGMDUAL_PRONE_BCAP" animsurface="BGMDWPRONE" />
+			<Surface name="BGMEMPTY_PAIN_BCAP" animsurface="BGMHURTSTANDINGN" />
+			<Surface name="BGMRIFLE_PAIN_BCAP" animsurface="BGMHURTSTANDINGR" />
+			<Surface name="BGMEMPTY_DIE_BCAP" animsurface="BGMHITSTAND" />
+			<Surface name="BGMEMPTY_CDIE_BCAP" animsurface="BGMHITCROUCH" />
+			<Surface name="BGMEMPTY_COWER_BCAP" animsurface="BGMCOWER" />
+			<Surface name="BGM_CLIMB_BCAP" animsurface="BGMCLIMBROOF" />
+			<Surface name="BGM_CLIMB_BCAP" animsurface="BGMWALLJUMP" />
+			<Surface name="BGMEMPTY_ROLL_BCAP" animsurface="BGMROLLOVER" />
+			<Surface name="BGMEMPTY_ROLL_SIDE_BCAP" animsurface="BGMROLL_PR" />
+			<Surface name="BGMEMPTY_DIEFB_BCAP" animsurface="BGMHITFALLBACK" />
+			<Surface name="BGMEMPTY_DIEFBH_BCAP" animsurface="BGMHITHARD" />
+			<Surface name="BGMEMPTY_DIEFBHB_BCAP" animsurface="BGMHITHARDBLOOD" />
+			<Surface name="BGMRIFLE_WALK_HURT_BCAP" animsurface="BGMHURTWALKINGR" />
+			<Surface name="BGMRIFLE_BAYONET_BCAP" animsurface="BGMBAYONET_S_S" />
+			<Surface name="BGMRIFLE_BAYONET_L_BCAP" animsurface="BGMBAYONET_S_P" />
+			<Surface name="BGMEMPTY_DODGE_BCAP" animsurface="BGMDODGE" />
+			<Surface name="BGMEMPTY_THROW_BCAP" animsurface="BGMTHROW" />
+			<Surface name="BGMEMPTY_THROW_G_BCAP" animsurface="BGMSTHRG" />
+			<Surface name="BGMEMPTY_LOB_BCAP" animsurface="BGMLOB" />
+			<Surface name="BGMEMPTY_LOB_G_BCAP" animsurface="BGMSLOBG" />
+			<Surface name="BGMEMPTY_KICKDOOR_BCAP" animsurface="BGMKICKDOOR" />
+			<Surface name="BGM_STRETCH_BCAP" animsurface="BGMSTRECH" />
+			<Surface name="BGMEMPTY_RADIO_BCAP" animsurface="BGMRADIO" />
+			<Surface name="BGM_FLEX_BCAP" animsurface="BGMFLEX" />
+			<Surface name="BGMEMPTY_REMOTE_BCAP" animsurface="BGMUSEREMOTE" />
+			<Surface name="BGMKNIFE_STAB_BCAP" animsurface="BGMSTAB" />
+			<Surface name="BGMKNIFE_SLICE_BCAP" animsurface="BGMSLICE" />
+			<Surface name="BGMKNIFE_THROW_BCAP" animsurface="BGMTHROWKNIFE" />
+			<Surface name="BGMKNIFE_BREATH_BCAP" animsurface="BGMBREATHKNIFE" />
+			<Surface name="BGMCROWBAR_HIT_BCAP" animsurface="BGMCROWBAR" />
+			<Surface name="BGMCROWBAR_CR_HIT_BCAP" animsurface="BGMPUNCHLOW"/>
+			<Surface name="BGMEMPTY_CPUNCH_BCAP" animsurface="BGMPUNCHLOW" />
+			<Surface name="BGMEMPTY_CTHROW_BCAP" animsurface="BGMCRTHROW" />
+			<Surface name="BGMKNIFE_CSTAB_BCAP" animsurface="BGMCSTAB" />
+			<Surface name="BGMEMPTY_CRADIO_BCAP" animsurface="BGMCRRADIO" />
+			<Surface name="BGMEMPTY_SLEEP_BCAP" animsurface="BGMSLEEP" />
+			<Surface name="BGMEMPTY_DRUNK_BCAP" animsurface="BGMPISTOLDRUNK" />
+			<Surface name="BGMEMPTY_WALK_HURT_BCAP" animsurface="BGMHURTWALKINGN" />
+			<Surface name="BGMEMPTY_FALL_BCAP" animsurface="BGMFALL" />
+			<Surface name="BGMEMPTY_FALLFWD_BCAP" animsurface="BGMFALLF" />
+			<Surface name="BGMEMPTY_KARATELK_BCAP" animsurface="RGMLOWKICK" />
+			<Surface name="BGMEMPTY_KARATESPINK_BCAP" animsurface="RGMSPINKICK" />
+			<Surface name="BGMLAW_BCAP" animsurface="BGMROCKET" />
+			<Surface name="BGMLAW_CR_BCAP" animsurface="BGMCRROCKET" />
+			<Surface name="BGM_ROCK_BCAP" animsurface="BGMWITHSTONE" />
+			<Surface name="BGM_HELIDROP_BCAP" animsurface="BGMHELIDROP" />
+			<Surface name="BGM_WATER_RIFLE_IDLE_BCAP" animsurface="BGMWATER_R_STD" />
+			<Surface name="BGM_WATER_RIFLE_WALK_BCAP" animsurface="BGMWATER_R_WALK" />
+			<Surface name="BGM_WATER_RIFLE_AIM_BCAP" animsurface="BGMWATER_R_AIM" />
+			<Surface name="BGM_WATER_RIFLE_HIP_BCAP" animsurface="BGM_WATER_HIP_AIM" />
+			<Surface name="BGM_WATER_EMPTY_IDLE_BCAP" animsurface="BGMWATER_N_STD" />
+			<Surface name="BGM_WATER_EMPTY_WALK_BCAP" animsurface="BGMWATER_N_WALK" />
+			<Surface name="BGM_WATER_EMPTY_THROW_BCAP" animsurface="BGMWATERTHROW" />
+			<Surface name="BGM_WATER_EMPTY_FALL_BCAP" animsurface="BGMWATER_TRANS" />
+			<Surface name="BGM_WATER_EMPTY_FALL_BCAP" animsurface="BGMWATER_TRANS" />
+			<Surface name="BGM_WATER_EMPTY_TREAD_BCAP" animsurface="BGMDEEPWATER_TRED" />
+			<Surface name="BGM_WATER_EMPTY_SWIM_BCAP" animsurface="BGMDEEPWATER_SWIM" />
+			<Surface name="BGM_WATER_EMPTY_DIE_BCAP" animsurface="BGMWATER_DIE" />
+			<Surface name="BGM_WATER_EMPTY_DROWN_BCAP" animsurface="BGMDEEPWATER_DIE" />
+			<Surface name="BGM_WATER_DUAL_AIM_BCAP" animsurface="BGMWATER_DBLSHT" />
+			<Surface name="BGM_CROUCH_MORTAR_BCAP" animsurface="BGMMORTAR" />
+		</LayerProp>
+	</Layer>
+</LogicalAnimationSurfaces>
