@@ -3861,8 +3861,8 @@
 	</Filter>
 	<Filter name="Gasmask">
 		<OR>
-			<HEAD1POS op="in">213, 452, 453, 481</HEAD1POS>
-			<HEAD2POS op="in">213, 452, 453, 481</HEAD2POS>
+			<HEAD1POS op="in">213, 451, 452, 453, 481</HEAD1POS>
+			<HEAD2POS op="in">213, 451, 452, 453, 481</HEAD2POS>
 		</OR>
 	</Filter>
 	<Filter name="GasmaskAndPistolLeft">
